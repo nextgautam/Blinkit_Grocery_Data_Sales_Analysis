@@ -52,7 +52,7 @@ To provide a visual and interactive summary of Blinkit's grocery sales data to h
 
 ## 📂 Project Files
 
-- `Blinkit_Grocery_Data_Dashboard.pbix` – Dataset used
+- <a href="BlinkIT Grocery Data.xlsx">Click Here</a> – Dataset used
 - `README.md` – Project documentation
 - `Screenshot.png` – Dashboard preview image
 
