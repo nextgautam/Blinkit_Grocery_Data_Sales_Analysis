@@ -54,7 +54,7 @@ To provide a visual and interactive summary of Blinkit's grocery sales data to h
 
 - <a href="BlinkIT Grocery Data.xlsx">Click Here</a> – Dataset used
 - `README.md` – Project documentation
-- `Screenshot.png` – Dashboard preview image
+- <a href="Screenshot 2025-07-03 200255.png">Click Here</a> – Dashboard preview image
 
 ---
 
